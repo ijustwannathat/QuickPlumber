@@ -19,7 +19,7 @@ $ git clone https://github.com/ijustwannathat/QuickPlumber.git
 
 ### Navigate to the project directory
 ```
-$ cd QuickPlumber:
+$ cd QuickPlumber
 ```
 
 ### Create and activate a virtual environment:

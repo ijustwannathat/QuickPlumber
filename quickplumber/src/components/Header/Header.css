@@ -1,0 +1,35 @@
+.header {
+    border-radius: .9375rem;
+    background: #FFF;
+    box-shadow: 0px 10px 32px -4px rgba(24, 39, 75, 0.10), 0px 6px 14px -6px rgba(24, 39, 75, 0.12);
+    margin: 1.25rem .625rem;
+    padding: 1.25rem .625rem;
+    display: flex;  
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 97%;
+}
+
+.header__title h1 {
+    color: var(--color-text);
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 900;
+    letter-spacing: 1.6px;
+}
+
+.header__actions {
+    display: flex;
+    align-items: center;
+}
+
+.avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 100%;
+    background-color: red;
+    margin-left: 24px;
+}

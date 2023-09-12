@@ -1,0 +1,51 @@
+.aside__main-nav {
+  margin-top: 45px;
+}
+
+.aside-nav ul {
+  gap: 24px;
+}
+
+.aside-nav ul li {
+  border-radius: 15px;
+  display: flex;
+  padding: 16px;
+  cursor: pointer;
+}
+
+.aside-icon {
+  width: 20px;
+  height: 20px;
+  background: url("../../../assets/icons/home.svg") center no-repeat;
+  margin-right: 16px;
+}
+
+.aside-icon.box {
+  background: url("../../../assets/icons/box.svg") center no-repeat;
+}
+
+.aside-icon.history {
+  background: url("../../../assets/icons/analitics.svg") center no-repeat;
+}
+
+.aside-icon.exit {
+  background: url("../../../assets/icons/exit.svg") center no-repeat;
+}
+
+.aside-icon.lang {
+  background: url("../../../assets/icons/translate.svg") center no-repeat;
+}
+
+.aside-nav ul li:hover {
+  background-color: var(--box-shadow);
+}
+
+.aside-nav__link {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.aside__actions {
+  position: absolute;
+  bottom: 10px;
+}

@@ -7,13 +7,13 @@ export default function ActionsAside() {
         <ul>
           <li>
             <div className="aside-icon exit"></div>
-            <a href="#" className="aside-nav__link">
+            <a href="/" className="aside-nav__link">
               Exit
             </a>
           </li>
           <li>
             <div className="aside-icon lang"></div>
-            <a href="#" className="aside-nav__link">
+            <a href="/" className="aside-nav__link">
               Change Language
             </a>
           </li>

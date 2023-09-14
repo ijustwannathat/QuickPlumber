@@ -8,19 +8,19 @@ export default function NavigationAside() {
         <ul>
           <li>
             <div className="aside-icon"></div>
-            <a href="#" className="aside-nav__link">
+            <a href="/" className="aside-nav__link">
               Home
             </a>
           </li>
           <li>
             <div className="aside-icon box"></div>
-            <a href="#" className="aside-nav__link">
+            <a href="/" className="aside-nav__link">
               Statistic
             </a>
           </li>
           <li>
             <div className="aside-icon history"></div>
-            <a href="#" className="aside-nav__link">
+            <a href="/" className="aside-nav__link">
               History
             </a>
           </li>

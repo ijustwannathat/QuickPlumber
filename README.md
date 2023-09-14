@@ -46,7 +46,7 @@ Set up the backend of Quick Plumber by following these steps:
 
 ```bash
 $ git clone https://github.com/ijustwannathat/QuickPlumber.git
-$ cd QuickPlumber
+$ cd QuickPlumber/backend
 ```
 
 ### 2. Create and Activate a Virtual Environment
